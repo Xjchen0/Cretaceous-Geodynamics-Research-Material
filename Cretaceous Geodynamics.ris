@@ -30,8 +30,6 @@ UR  - https://onlinelibrary.wiley.com/doi/abs/10.1029/2018TC005462
 Y2  - 2024/10/18/08:47:49
 L1  - files/5/Müller 等 - 2019 - A Global Plate Model Including Lithospheric Deformation Along Major Rifts and Orogens Since the Tria.pdf
 L2  - files/6/2018TC005462.html
-N1  - <div data-schema-version="9"><p>plates motion</p>
-</div>
 KW  - /unread
 KW  - deformation
 KW  - geodynamics
@@ -145,22 +143,6 @@ SN  - 1342-937X
 UR  - https://www.sciencedirect.com/science/article/pii/S1342937X19302564
 Y2  - 2024/10/18/12:51:37
 L1  - files/28/East 等 - 2020 - Subduction history reveals Cretaceous slab superflux as a possible cause for the mid-Cretaceous plum.pdf
-N1  - <div data-schema-version="8"><ul>
-<li>
-俯冲通量与二氧化碳
-</li>
-<li>
-俯冲通量不能用俯冲带总长度来代表
-</li>
-<li>
-俯冲板片超通量模型
-</li>
-</ul>
-<p>
-  <a href="zotero://note/u/7AMWIQQ6/">
-    zotero://note/u/7AMWIQQ6/
-  </a>
-</p></div>
 KW  - /unread
 KW  - Subduction
 KW  - Cretaceous
@@ -293,7 +275,6 @@ SN  - 1525-2027
 UR  - https://onlinelibrary.wiley.com/doi/abs/10.1029/2020GC009244
 Y2  - 2024/10/19/01:07:04
 L1  - files/42/Cao 等 - 2021 - Coupled Evolution of Plate Tectonics and Basal Mantle Structure.pdf
-N1  - <p>e2020GC009244 2020GC009244</p>
 KW  - /unread
 KW  - basal mantle structure
 KW  - mantle convection
@@ -596,9 +577,6 @@ SN  - 09218181
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0921818116302417
 Y2  - 2024/10/23/06:25:49
 L1  - files/82/Matthews 等 - 2016 - Global plate boundary evolution and kinematics since the late Paleozoic.pdf
-N1  - <div data-schema-version="9"><h1>考虑板块边界的全板块模型</h1>
-<p><a href="zotero://note/u/873GMBKY/" rel="noopener noreferrer nofollow">关于潘吉亚超大陆裂解后的板块重建</a></p>
-</div>
 KW  - /unread
 ER  - 
 
@@ -667,15 +645,6 @@ SN  - 0027-8424, 1091-6490
 UR  - https://pnas.org/doi/full/10.1073/pnas.1315657111
 Y2  - 2024/10/23/09:15:33
 L1  - files/95/Van Der Meer 等 - 2014 - Plate tectonic controls on atmospheric CO 2 levels since the Triassic.pdf
-N1  - <div data-schema-version="9"><ul>
-<li>
-使用俯冲带总长度代表俯冲通量
-</li>
-<li>
-CO2
-</li>
-</ul>
-</div>
 KW  - /unread
 ER  - 
 
@@ -761,8 +730,6 @@ UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1440-1738.2005.00478.x
 Y2  - 2024/10/25/09:10:24
 L1  - https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1440-1738.2005.00478.x
 L2  - https://onlinelibrary.wiley.com/doi/10.1111/j.1440-1738.2005.00478.x#b1
-N1  - <div data-schema-version="9"><h1>关于潘吉亚超大陆裂解后的板块重建</h1>
-</div>
 KW  - /unread
 KW  - Caribbean Tethys
 KW  - Eastern Tethys
@@ -796,16 +763,6 @@ UR  - https://www.sciencedirect.com/science/article/pii/S0012821X16302746
 Y2  - 2024/10/25/08:48:09
 L1  - https://espace.curtin.edu.au/bitstream/20.500.11937/53674/2/252550.pdf
 L2  - https://www.sciencedirect.com/science/article/pii/S0012821X16302746?via%3Dihub
-N1  - <div data-schema-version="9"><h1>关于超大陆旋回与俯冲的关系的问题</h1>
-<ul>
-<li>
-罗迪尼亚超大陆裂解可能与大陆边缘俯冲有关
-</li>
-<li>
-超大陆裂解可能是自上而下的而不是自下而上的
-</li>
-</ul>
-</div>
 KW  - /unread
 KW  - bottom up
 KW  - Neoproterozoic
@@ -1253,9 +1210,9 @@ Y2  - 2024/10/30/02:08:15
 L1  - files/153/Ribe 等 - 2007 - Buckling instabilities of subducted lithosphere beneath the transition zone.pdf
 L2  - files/155/S0012821X06008466.html
 KW  - /unread
+KW  - Subduction
 KW  - Buckling instabilities
 KW  - Seismic tomography
-KW  - Subduction
 ER  - 
 
 TY  - JOUR
@@ -1373,12 +1330,12 @@ Y2  - 2024/10/30/08:31:03
 L1  - files/164/Zahirovic 等 - 2016 - Tectonic evolution and deep mantle structure of the eastern Tethys since the latest Jurassic.pdf
 L2  - files/165/S0012825216302872.html
 KW  - /unread
-KW  - Geodynamics
 KW  - Pangea
+KW  - Tectonics
+KW  - Geodynamics
+KW  - Tethys
 KW  - Southeast Asia
 KW  - Sundaland
-KW  - Tectonics
-KW  - Tethys
 ER  - 
 
 TY  - JOUR
@@ -1407,12 +1364,331 @@ Y2  - 2024/10/30/08:40:28
 L1  - files/167/Li 等 - 2019 - Decoding Earth’s rhythms Modulation of supercontinent cycles by longer superocean episodes.pdf
 L2  - files/168/S0301926819300166.html
 KW  - /unread
+KW  - Supercontinent
+KW  - Geodynamic
 KW  - Earth’s supercycle
 KW  - Extroversion
-KW  - Geodynamic
 KW  - Introversion
 KW  - Subduction girdle
-KW  - Supercontinent
 KW  - Superocean
+ER  - 
+
+TY  - JOUR
+TI  - Lateral Motion of Mantle Plumes in 3-D Geodynamic Models
+AU  - Li, Mingming
+AU  - Zhong, Shijie
+T2  - Geophysical Research Letters
+AB  - It has been proposed that hot spot tracks are caused by moving rigid plates above relatively stationary hot spots. However, the fixity of hot spots remains under debate. Here, we perform 3-D very high resolution (<25 km laterally) global mantle convection models with realistic convection vigor to investigate the lateral motion of mantle plumes. We find that the lateral motion of plumes beneath the Pacific plate is statistically similar to that beneath the Indo-Atlantic plates. In the past 80 Ma, the majority (>90%) of plumes move laterally with an average speed of 0–20 mm/year under the no-net-rotation reference frame, and there are a small portion ( 10–20%) of plumes whose lateral motion is less than 5 mm/year. The geodynamic modeling results are statistically in a good agreement with the hot spot motions in the last 5 Ma estimated from observation-based kinematic models. Our results suggest a small-to-moderate (0–20 mm/year) lateral motion of most plume-induced hot spots.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1029/2018GL081404
+DP  - Wiley Online Library
+VL  - 46
+IS  - 9
+SP  - 4685
+EP  - 4693
+LA  - en
+SN  - 1944-8007
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1029/2018GL081404
+Y2  - 2024/10/31/10:17:07
+L1  - files/170/Li和Zhong - 2019 - Lateral Motion of Mantle Plumes in 3-D Geodynamic Models.pdf
+L2  - files/173/2018GL081404.html
+KW  - /unread
+KW  - mantle plume
+KW  - mantle convection
+KW  - hot spot track
+KW  - lateral motion
+KW  - numerical modeling
+ER  - 
+
+TY  - JOUR
+TI  - The Emperor Seamounts: Southward Motion of the Hawaiian Hotspot Plume in Earth's Mantle
+AU  - Tarduno, John A.
+AU  - Duncan, Robert A.
+AU  - Scholl, David W.
+AU  - Cottrell, Rory D.
+AU  - Steinberger, Bernhard
+AU  - Thordarson, Thorvaldur
+AU  - Kerr, Bryan C.
+AU  - Neal, Clive R.
+AU  - Frey, Fred A.
+AU  - Torii, Masayuki
+AU  - Carvallo, Claire
+T2  - Science
+AB  - The Hawaiian-Emperor hotspot track has a prominent bend, which has served as the basis for the theory that the Hawaiian hotspot, fixed in the deep mantle, traced a change in plate motion. However, paleomagnetic and radiometric age data from samples recovered by ocean drilling define an age-progressive paleolatitude history, indicating that the Emperor Seamount trend was principally formed by the rapid motion (over 40 millimeters per year) of the Hawaiian hotspot plume during Late Cretaceous to early-Tertiary times (81 to 47 million years ago). Evidence for motion of the Hawaiian plume affects models of mantle convection and plate tectonics, changing our understanding of terrestrial dynamics.
+DA  - 2003/08/22/
+PY  - 2003
+DO  - 10.1126/science.1086442
+DP  - science.org (Atypon)
+VL  - 301
+IS  - 5636
+SP  - 1064
+EP  - 1069
+ST  - The Emperor Seamounts
+UR  - https://www.science.org/doi/10.1126/science.1086442
+Y2  - 2024/10/31/10:17:13
+L1  - files/172/Tarduno 等 - 2003 - The Emperor Seamounts Southward Motion of the Hawaiian Hotspot Plume in Earth's Mantle.pdf
+KW  - /unread
+ER  - 
+
+TY  - JOUR
+TI  - The influence of uncertain mantle density and viscosity structures on the calculations of deep mantle flow and lateral motion of plumes
+AU  - Li, Mingming
+T2  - Geophysical Journal International
+AB  - Mantle plumes form from thermal boundary layers, such as Earth's core–mantle boundary. As plumes rise towards the surface, they are laterally deflected by the surrounding mantle flow that is governed by deep mantle density and viscosity structures. The lateral motions of mantle plumes carry information of deep mantle structure and dynamics and are used to setup reference frames by which absolute plate motions are reconstructed. In this study, we compare two methods to compute deep mantle flow and lateral motion of plumes. In mantle convection (MC) models, the mantle flow field and lateral motions of plumes are determined by solving conservation equations forward-in-time from given initial conditions. In plume advection (PA) models, approximate viscosity and present-day density structures are used to calculate present-day mantle flow which is then propagated backward-in-time assuming zero thermal diffusion, and plume conduits are represented by continuous lines and are passively advected within the background mantle flow. The question is how assumptions in PA models influence the predictions of deep mantle flow and plume lateral motions. Here, we perform purely thermal MC models and thermochemical MC models with intrinsically dense materials in the lowermost mantle. The deep mantle flow and plume lateral motions are determined accurately in each MC model. We also perform PA models using the approximated present-day viscosity and temperature structures in these MC models. We find that PA models without considering temperature-dependence of viscosity and/or only using long wavelength present-day temperature structure (up to degree 20) often lead to an average of ∼50–60 per cent and ∼60–200 per cent differences of present-day mantle flow velocities than purely thermal MC models and thermochemical MC models, respectively. By propagating inaccurate flow fields backward-in-time in PA models often cause even larger errors of mantle flow velocities in the past. Even using the same parameters and starting from the same present-day mantle flow fields as in MC models, the PA models still show an average of ∼10–30 per cent misfit of mantle flow velocities after ∼40 Ma.In addition, we show that errors of mantle flow fields in PA models can cause ∼100–600 per cent differences of plume lateral motions than that constrained in MC models in the past 60 Ma. Even we use the mantle flow in MC models to advected virtual plumes in PA models, the virtual plumes could still show ∼50–300 per cent difference of lateral motions than dynamic plumes in MC models if the virtual plumes do not start with the same locations and/or shapes as plumes in MC models. We also find virtual plumes in PA models initiated at different locations and/or with different shapes can be later advected to similar locations, suggesting that the lateral motions of plumes in PA models can be non-unique. Therefore, it is important to consider the build-in assumptions of PA models when interpreting their predictions on deep mantle flow field and plume lateral motions. The accuracy of PA models would improve as we gain better understanding on Earth's deep mantle structure and dynamics.
+DA  - 2023/06/01/
+PY  - 2023
+DO  - 10.1093/gji/ggad040
+DP  - Silverchair
+VL  - 233
+IS  - 3
+SP  - 1916
+EP  - 1937
+J2  - Geophysical Journal International
+SN  - 0956-540X
+UR  - https://doi.org/10.1093/gji/ggad040
+Y2  - 2024/10/31/10:17:26
+L1  - files/176/Li - 2023 - The influence of uncertain mantle density and viscosity structures on the calculations of deep mantl.pdf
+KW  - /unread
+ER  - 
+
+TY  - JOUR
+TI  - Record of massive upwellings from the Pacific large low shear velocity province
+AU  - Madrigal, Pilar
+AU  - Gazel, Esteban
+AU  - Flores, Kennet E.
+AU  - Bizimis, Michael
+AU  - Jicha, Brian
+T2  - Nature Communications
+AB  - Large igneous provinces, as the surface expression of deep mantle processes, play a key role in the evolution of the planet. Here we analyse the geochemical record and timing of the Pacific Ocean Large Igneous Provinces and preserved accreted terranes to reconstruct the history of pulses of mantle plume upwellings and their relation with a deep-rooted source like the Pacific large low-shear velocity Province during the Mid-Jurassic to Upper Cretaceous. Petrological modelling and geochemical data suggest the need of interaction between these deep-rooted upwellings and mid-ocean ridges in pulses separated by ∼10–20 Ma, to generate the massive volumes of melt preserved today as oceanic plateaus. These pulses impacted the marine biota resulting in episodes of anoxia and mass extinctions shortly after their eruption.
+DA  - 2016/11/08/
+PY  - 2016
+DO  - 10.1038/ncomms13309
+DP  - www.nature.com
+VL  - 7
+IS  - 1
+SP  - 13309
+J2  - Nat Commun
+LA  - en
+SN  - 2041-1723
+UR  - https://www.nature.com/articles/ncomms13309
+Y2  - 2024/10/31/10:17:34
+L1  - files/178/Madrigal 等 - 2016 - Record of massive upwellings from the Pacific large low shear velocity province.pdf
+KW  - /unread
+KW  - Geodynamics
+KW  - Geochemistry
+KW  - Petrology
+ER  - 
+
+TY  - JOUR
+TI  - On the uncertainties in hot spot reconstructions and the significance of moving hot spot reference frames
+AU  - O'Neill, Craig
+AU  - Müller, Dietmar
+AU  - Steinberger, Bernhard
+T2  - Geochemistry, Geophysics, Geosystems
+AB  - It is widely accepted that substantial relative motion has occurred between the Indo-Atlantic and Pacific hot spots since the Late Cretaceous. At the same time, a fixed Indo-Atlantic hot spot reference frame has been argued for and used since the advent of plate tectonics, implying relatively little motion between the hot spots in this domain since about 130 Ma. Most plumes purported to have caused these hot spots, while being advected in the global-scale mantle flow field, are assumed to move an order of magnitude more slowly than plates. However, the lifetime of a plume may be over ∼100 Myr, and the integrated motion of a plume is expected to be significant over these times. The uncertainties inherent in hot spot reconstructions are of a magnitude similar to the expected plume motion, and so any differences between a fixed and moving frame of reference must be discernible beyond the level of these uncertainties. We present a method for constraining hot spot reconstruction uncertainties, similar to that in use for relative plate motion. We use a modified Hellinger criterion of fit for the hot spot problem, using track geometries and radiometric dating, and derive covariance matrices for our Indo-Atlantic rotations for the last 120 Myr. However, any given mantle convection model introduces additional uncertainties into such models, based on its model parameters and starting conditions (e.g., choice of global tomography model, viscosity profile, nature of mantle phase transitions). We use an interactive evolutionary approach, where we constrain the hot spot motion resulting from convection models to fit paleomagnetic constraints, and converge on an acceptable motion solution by varying unknowns over several generations of simulations. Our hot spot motion model shows large motion (5–10°) of the Indo-Atlantic hot spots for times >80 Ma, consistent with available paleomagnetic constraints. The differences between the fixed and moving hot spot reference frames are not discernible over the level of uncertainty in such rotations for times <80 Ma.
+DA  - 2005///
+PY  - 2005
+DO  - 10.1029/2004GC000784
+DP  - Wiley Online Library
+VL  - 6
+IS  - 4
+LA  - en
+SN  - 1525-2027
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1029/2004GC000784
+Y2  - 2024/10/31/10:17:41
+L1  - files/179/O'Neill 等 - 2005 - On the uncertainties in hot spot reconstructions and the significance of moving hot spot reference f.pdf
+KW  - /unread
+KW  - hot spot
+KW  - Indo-Atlantic
+KW  - plumes
+KW  - uncertainties
+ER  - 
+
+TY  - JOUR
+TI  - Advection of plumes in mantle flow: implications for hotspot motion, mantle viscosity and plume distribution
+AU  - Steinberger*, Bernhard
+AU  - O’Connell, Richard J.
+T2  - Geophysical Journal International
+AB  - Because of their slow relative motion, hotspots, mainly in the Pacific, are often used as a reference frame for defining plate motions. A coherent motion of all Pacific hotspots relative to the deep mantle may, however, bias the hotspot reference frame. Numerical results on the advection of plumes, which are thought to cause the hotspots on the Earth’s surface, in a large-scale mantle flow field are therefore presented. Bringing the results into agreement with observations also leads to conclusions regarding the viscosity structure of the Earth’s mantle, as well as the sources and distribution of plumes. The abrupt change in direction of the Hawaiian–Emperor chain implies an upper-mantle viscosity under the Pacific of ∼ 1.5 × 1020 Pa s or less. Slow relative motion of hotspots requires high lower-mantle viscosity, unless hotspots are located at large-scale stationary upwellings that are currently unresolved by seismic tomography. For our preferred model, we obtain coherent motion of Pacific hotspots in a reference frame of no net rotation, as well as coherent motion relative to African hotspots, caused by return flow antiparallel to plate motion. Advection and regional differences in life expectancy can to a large part explain the distribution of plumes in relation to ridges, subduction zones (present and past) and seismic anomalies. Plume conduits are substantially tilted in the lower mantle. The surface motion of hotspots is often smaller than the advection rate of plume conduits in the lowermost mantle.
+DA  - 1998///
+PY  - 1998
+DO  - 10.1046/j.1365-246x.1998.00447.x
+DP  - Wiley Online Library
+VL  - 132
+IS  - 2
+SP  - 412
+EP  - 434
+LA  - en
+SN  - 1365-246X
+ST  - Advection of plumes in mantle flow
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-246x.1998.00447.x
+Y2  - 2024/10/31/10:17:47
+L1  - files/181/Steinberger和O’Connell - 1998 - Advection of plumes in mantle flow implications for hotspot motion, mantle viscosity and plume dist.pdf
+L2  - files/182/j.1365-246x.1998.00447.html
+KW  - /unread
+KW  - mantle convection
+KW  - advection
+KW  - hotspots
+KW  - mantle viscosity
+KW  - plume
+KW  - seismic tomography
+ER  - 
+
+TY  - JOUR
+TI  - Linking lowermost mantle structure, core-mantle boundary heat flux and mantle plume formation
+AU  - Li, Mingming
+AU  - Zhong, Shijie
+AU  - Olson, Peter
+T2  - Physics of the Earth and Planetary Interiors
+AB  - The dynamics of Earth’s lowermost mantle exert significant control on the formation of mantle plumes and the core-mantle boundary (CMB) heat flux. However, it is not clear if and how the variation of CMB heat flux and mantle plume activity are related. Here, we perform geodynamic model experiments that show how temporal variations in CMB heat flux and pulses of mantle plumes are related to morphologic changes of the thermochemical piles of large-scale compositional heterogeneities in Earth’s lowermost mantle, represented by the large low shear velocity provinces (LLSVPs). We find good correlation between the morphologic changes of the thermochemical piles and the time variation of CMB heat flux. The morphology of the thermochemical piles is significantly altered during the initiation and ascent of strong mantle plumes, and the changes in pile morphology cause variations in the local and the total CMB heat flux. Our modeling results indicate that plume-induced episodic variations of CMB heat flux link geomagnetic superchrons to pulses of surface volcanism, although the relative timing of these two phenomena remains problematic. We also find that the density distribution in thermochemical piles is heterogeneous, and that the piles are denser on average than the surrounding mantle when both thermal and chemical effects are included.
+DA  - 2018/04/01/
+PY  - 2018
+DO  - 10.1016/j.pepi.2018.01.010
+DP  - ScienceDirect
+VL  - 277
+SP  - 10
+EP  - 29
+J2  - Physics of the Earth and Planetary Interiors
+SN  - 0031-9201
+UR  - https://www.sciencedirect.com/science/article/pii/S0031920117302625
+Y2  - 2024/11/04/07:42:02
+L1  - files/184/Li 等 - 2018 - Linking lowermost mantle structure, core-mantle boundary heat flux and mantle plume formation.pdf
+L2  - files/185/S0031920117302625.html
+KW  - /unread
+KW  - CMB heat flux
+KW  - Geomagnetic superchrons
+KW  - Large igneous provinces
+KW  - Mantle plume
+KW  - Thermochemical piles
+ER  - 
+
+TY  - JOUR
+TI  - Latest pulse of Earth: Evidence for a mid-Cretaceous superplume
+AU  - Larson, R. L.
+T2  - Geology
+AB  - A calculation of Earth's ocean crustal budget for the past 150 m.y. reveals a 50% to 75% increase in ocean crust formation rate between 120 and 80 Ma. This "pulse" in ocean crust production is seen both in spreading-rate increases from ocean ridges and in the age distribution of oceanic plateaus. It is primarily a Pacific Ocean phenomenon with an abrupt onset, and peak production rates occurred between 120 and 100 Ma. The pulse decreased in intensity from 100 to 80 Ma, and at 80 Ma rates dropped significantly. There was a continued decrease from 80 to 30 Ma with a secondary peak near the Cretaceous/Tertiary boundary at 65 Ma. For the past 30 m.y., ocean crust has formed at a nearly steady rate. Because the pulse is seen primarily in Pacific oceanic plateau and ridge production, and coincides with the long Cretaceous interval of normal magnetic polarity, I interpret it as a "superplume" that originated at about 125 Ma near the core/mantle boundary, rose by convection through the entire mantle, and erupted beneath the mid-Cretaceous Pacific basin. The present-day South Pacific "superswell" under Tahiti is probably the nearly exhausted remnant of the original upwelling. How this superplume stopped magnetic field reversals for 41 m.y. is a matter of speculation, but it probably involved significant alteration of the temperature structure at the core/mantle boundary and the convective behavior of the outer core.
+DA  - 1991/06/01/
+PY  - 1991
+DO  - 10.1130/0091-7613(1991)019<0547:LPOEEF>2.3.CO;2
+DP  - Silverchair
+VL  - 19
+IS  - 6
+SP  - 547
+EP  - 550
+J2  - Geology
+SN  - 0091-7613
+ST  - Latest pulse of Earth
+UR  - https://doi.org/10.1130/0091-7613(1991)019<0547:LPOEEF>2.3.CO;2
+Y2  - 2024/11/04/08:22:31
+L1  - files/187/Larson - 1991 - Latest pulse of Earth Evidence for a mid-Cretaceous superplume.pdf
+L2  - files/188/Latest-pulse-of-Earth-Evidence-for-a-mid.html
+KW  - /unread
+ER  - 
+
+TY  - JOUR
+TI  - The source location of mantle plumes from 3D spherical models of mantle convection
+AU  - Li, Mingming
+AU  - Zhong, Shijie
+T2  - Earth and Planetary Science Letters
+AB  - Mantle plumes are thought to originate from thermal boundary layers such as Earth's core-mantle boundary (CMB), and may cause intraplate volcanism such as large igneous provinces (LIPs) on the Earth's surface. Previous studies showed that the original eruption sites of deep-sourced LIPs for the last 200 Myrs occur mostly above the margins of the seismically-observed large low shear velocity provinces (LLSVPs) in the lowermost mantle. However, the mechanism that leads to the distribution of the LIPs is not clear. The location of the LIPs is largely determined by the source location of mantle plumes, but the question is under what conditions mantle plumes form outside, at the edges, or above the middle of LLSVPs. Here, we perform 3D geodynamic calculations and theoretical analyses to study the plume source location in the lowermost mantle. We find that a factor of five decrease of thermal expansivity and a factor of two increase of thermal diffusivity from the surface to the CMB, which are consistent with mineral physics studies, significantly reduce the number of mantle plumes forming far outside of thermochemical piles (i.e., LLSVPs). An increase of mantle viscosity in the lowermost mantle also reduces number of plumes far outside of piles. In addition, we find that strong plumes preferentially form at/near the edges of piles and are generally hotter than that forming on top of piles, which may explain the observations that most LIPs occur above LLSVP margins. However, some plumes originated at pile edges can later appear above the middle of piles due to lateral movement of the plumes and piles and morphologic changes of the piles. ∼65–70% strong plumes are found within 10 degrees from pile edges in our models. Although plate motion exerts significant controls over the large-scale mantle convection in the lower mantle, mantle plume formation at the CMB remains largely controlled by thermal boundary layer instability which makes it difficult to predict geographic locations of most mantle plumes. However, all our models show consistently strong plumes originating from the lowermost mantle beneath Iceland, supporting a deep mantle plume origin of the Iceland volcanism.
+DA  - 2017/11/15/
+PY  - 2017
+DO  - 10.1016/j.epsl.2017.08.033
+DP  - ScienceDirect
+VL  - 478
+SP  - 47
+EP  - 57
+J2  - Earth and Planetary Science Letters
+SN  - 0012-821X
+UR  - https://www.sciencedirect.com/science/article/pii/S0012821X17304806
+Y2  - 2024/11/04/08:58:57
+L1  - files/191/Li和Zhong - 2017 - The source location of mantle plumes from 3D spherical models of mantle convection.pdf
+L2  - files/190/S0012821X17304806.html
+KW  - /unread
+KW  - large igneous province
+KW  - LLSVP
+KW  - lowermost mantle
+KW  - plume source location
+ER  - 
+
+TY  - JOUR
+TI  - Three distinct types of hotspots in the Earth’s mantle
+AU  - Courtillot, Vincent
+AU  - Davaille, Anne
+AU  - Besse, Jean
+AU  - Stock, Joann
+T2  - Earth and Planetary Science Letters
+AB  - The origin of mantle hotspots is a controversial topic. Only seven (‘primary’) out of 49 hotspots meet criteria aimed at detecting a very deep origin (three in the Pacific, four in the Indo-Atlantic hemisphere). In each hemisphere these move slowly, whereas there has been up to 50 mm/a motion between the two hemispheres prior to 50 Ma ago. This correlates with latitudinal shifts in the Hawaiian and Reunion hotspots, and with a change in true polar wander. We propose that hotspots may come from distinct mantle boundary layers, and that the primary ones trace shifts in quadrupolar convection in the lower mantle.
+DA  - 2003/01/10/
+PY  - 2003
+DO  - 10.1016/S0012-821X(02)01048-8
+DP  - ScienceDirect
+VL  - 205
+IS  - 3
+SP  - 295
+EP  - 308
+J2  - Earth and Planetary Science Letters
+SN  - 0012-821X
+UR  - https://www.sciencedirect.com/science/article/pii/S0012821X02010488
+Y2  - 2024/11/04/11:15:58
+L1  - files/193/Courtillot 等 - 2003 - Three distinct types of hotspots in the Earth’s mantle.pdf
+L2  - files/197/S0012821X02010488.html
+KW  - /unread
+KW  - convection
+KW  - hotspots
+KW  - mantle plumes
+KW  - true polar wander
+ER  - 
+
+TY  - JOUR
+TI  - On the location of plumes and lateral movement of thermochemical structures with high bulk modulus in the 3-D compressible mantle
+AU  - Tan, Eh
+AU  - Leng, Wei
+AU  - Zhong, Shijie
+AU  - Gurnis, Michael
+T2  - Geochemistry, Geophysics, Geosystems
+AB  - The two large low shear velocity provinces (LLSVPs) at the base of the lower mantle are prominent features in all shear wave tomography models. Various lines of evidence suggest that the LLSVPs are thermochemical and are stable on the order of hundreds of million years. Hot spots and large igneous province eruption sites tend to cluster around the edges of LLSVPs. With 3-D global spherical dynamic models, we investigate the location of plumes and lateral movement of chemical structures, which are composed of dense, high bulk modulus material. With reasonable values of bulk modulus and density anomalies, we find that the anomalous material forms dome-like structures with steep edges, which can survive for billions of years before being entrained. We find that more plumes occur near the edges, rather than on top, of the chemical domes. Moreover, plumes near the edges of domes have higher temperatures than those atop the domes. We find that the location of the downwelling region (subduction) controls the direction and speed of the lateral movement of domes. Domes tend to move away from subduction zones. The domes could remain relatively stationary when distant from subduction but would migrate rapidly when a new subduction zone initiates above. Generally, we find that a segment of a dome edge can be stationary for 200 million years, while other segments have rapid lateral movement. In the presence of time-dependent subduction, the computations suggest that maintaining the lateral fixity of the LLSVPs at the core-mantle boundary for longer than hundreds of million years is a challenge.
+DA  - 2011///
+PY  - 2011
+DO  - 10.1029/2011GC003665
+DP  - Wiley Online Library
+VL  - 12
+IS  - 7
+LA  - en
+SN  - 1525-2027
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1029/2011GC003665
+Y2  - 2024/11/04/11:21:57
+L1  - files/195/Tan 等 - 2011 - On the location of plumes and lateral movement of thermochemical structures with high bulk modulus i.pdf
+L2  - files/196/2011GC003665.html
+KW  - /unread
+KW  - LLSVP
+KW  - plume
+KW  - thermochemical convection
+ER  - 
+
+TY  - JOUR
+TI  - Thermochemical structures beneath Africa and the Pacific Ocean
+AU  - McNamara, Allen K.
+AU  - Zhong, Shijie
+T2  - Nature
+AB  - Large low-velocity seismic anomalies have been detected in the Earth's lower mantle beneath Africa and the Pacific Ocean that are not easily explained by temperature variations alone1,2,3,4,5,6,7,8,9,10,11. The African anomaly has been interpreted to be a northwest–southeast-trending structure3,4,5,7 with a sharp-edged linear, ridge-like morphology9,10. The Pacific anomaly, on the other hand, appears to be more rounded in shape1,2,3,4,6,7,11. Mantle models with heterogeneous composition have related these structures to dense thermochemical piles or superplumes12,13,14,15,16,17,18,19. It has not been shown, however, that such models can lead to thermochemical structures that satisfy the geometrical constraints, as inferred from seismological observations. Here we present numerical models of thermochemical convection in a three-dimensional spherical geometry using plate velocities inferred for the past 119 million years20. We show that Earth's subduction history can lead to thermochemical structures similar in shape to the observed large, lower-mantle velocity anomalies. We find that subduction history tends to focus dense material into a ridge-like pile beneath Africa and a relatively more-rounded pile under the Pacific Ocean, consistent with seismic observations.
+DA  - 2005/10//
+PY  - 2005
+DO  - 10.1038/nature04066
+DP  - www.nature.com
+VL  - 437
+IS  - 7062
+SP  - 1136
+EP  - 1139
+LA  - en
+SN  - 1476-4687
+UR  - https://www.nature.com/articles/nature04066
+Y2  - 2024/11/04/11:51:13
+L1  - files/199/McNamara和Zhong - 2005 - Thermochemical structures beneath Africa and the Pacific Ocean.pdf
+KW  - /unread
+KW  - Humanities and Social Sciences
+KW  - multidisciplinary
+KW  - Science
 ER  - 
 
