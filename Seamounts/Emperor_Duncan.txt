@@ -1,0 +1,47 @@
+Table 1. The 40Ar-39Ar Radiometric Ages for the Emperor Seamountsa												
+
+Sample	Material	Total Fusion Age,	2sigma	Plateau Age,	2sigma	N	MSWD	Isochron Age,	2sigma	40Ar/36Ar	2sigma	J
+		Ma	Error	Ma	Error			Ma	Error	Initial	Error	
+Detroit Seamount												
+1203-19R-2, 136-138	feldspar	23.90	0.18	none developed				none developed				0.001583
+1203-31R-1, 29-31	feldspar	29.72	1.00	none developed				none developed				0.001526
+1203-32R-5, 58-60	whole rock	74.36	0.53	75.55	0.89	6-Mar	3.52	76.41	2.91	285.1	32.4	0.001691
+1203-35R-4, 93-95	feldspar	72.64	2.85	76.27	2.76	6-Apr	0.36	75.53	3.98	298.3	11.1	0.001495
+1203-36R-4, 102-106	feldspar	58.66	2.65	71.19	5.93	6-Mar	2.19	66.07	6.91			0.001798
+1203-38R-1, 129-131	whole rock	75.52	1.21	75.14	1.16	9-May	1.65	74.63	2.06	296.7	4	0.001676
+1203-59R-2, 102-103	whole rock	76.23	1.24	77.73	1.44	8-Jun	1.70	75.23	2.36	300.2	3.9	0.001704
+				75.82b	0.61c							
+
+1204-2R-2, 93-95	whole rock	48.61	0.29	none developed				none developed				0.001638
+1204-9R-1, 92-94	feldspar	47.20	1.20	47.60	0.78	12-Apr	1.90	47.25	1.38	302.5	34.1	0.001414
+1204-9R-1, 92-94	whole rock	58.06	0.91	none developed				none developed				0.001664
+1204-14R-2, 131-134	feldspar	36.78	0.34	none developed				none developed				0.001439
+1204-14R-2, 131-134	whole rock	49.97	0.73	none developed				none developed				0.001621
+1204-14R-3, 67-69	whole rock	52.35	1.65	none developed				none developed				0.001651
+1204-17R-1, 89-92	feldspar	32.52	0.12	none developed				none developed				0.001786
+
+Nintoku Seamount												
+1205-5R-2, 30-34	whole rock	55.13	0.64	55.12	0.61	10-May	0.61	55.16	0.72	299.4	44.2	0.001544
+1205-6R-1, 0-4	whole rock	55.26	0.71	55.33	0.63	11-Mar	1.02	54.57	1.24	385.2	126.6	0.001517
+1205-6R-2, 25-28	feldspar	56.58	0.35	55.21	0.45	7-May	2.63	55.00	0.50	303.0	14.9	0.001576
+1205-10R-2, 73-75	whole rock	54.69	0.61	55.28	0.61	13-Aug	1.82	55.27	0.63	295.4	12.8	0.001582
+1205-20R-5, 60-65	whole rock	52.90	0.58	55.20	0.61	13-Jul	1.12	55.62	1.17	202.4	182.9	0.001567
+1205-39R-1, 70-72	whole rock	56.33	0.57	56.37	0.57	10-Sep	1.80	56.25	0.57	299.6	3.4	0.001557
+1205-45R-1, 123-126	whole rock	56.26	0.62	56.22	0.63	12-Jun	2.15	56.27	0.64	283.0	21.7	0.001531
+				55.51b	0.22c							
+Koko Seamount												
+1206-3R-2, 116-118	whole rock	46.93	1.20	48.53	0.73	8-Apr	0.25	48.72	1.00	294.7	2.8	0.001747
+1206-10R-1, 0-3	whole rock	46.51	2.32	48.7	1.16	8-Jul	1.01	49.52	1.47	293.3	2.5	0.001754
+1206-15R-4, 37-40	whole rock	51.17	0.45	49.45	0.50	9-Apr	1.61	50.57	1.05	203.9	78.8	0.001712
+1206-20R-3, 70-72	whole rock	48.59	0.47	48.34	0.41	9-May	0.54	48.35	0.64	292.6	21.5	0.001765
+1206-24R-3, 37-39	whole rock	50.15	0.59	49.53	0.47	8-Jun	0.79	49.88	0.77	288.7	11.4	0.001738
+1206-41R-1, 9-12	whole rock	30.50	0.27	none developed				none developed				0.001721
+1206-44R-2, 120-125	whole rock	48.73	0.41	49.69	0.39	8-Apr	0.24	49.97	0.72	257.1	83.8	0.001729
+				49.16b	0.21c							
+Meiji Seamount												
+192-6R-2, 7-14	feldspar	37.67	0.16	37.90	0.16	13-Jul	1.71	37.93	0.31	289.6	46.2	0.001798
+192-6R-2, 75-81	whole rock	41.24	0.25	33.21	0.18	8-Apr	2.22	33.09	0.64	301.8	31.5	0.001773
+192-6R-3, 3-9	feldspar	33.71	0.16	33.80	0.15	10-Jun	1.32	33.64	0.25	320.1	31.6	0.001639
+aAges calculated using biotite monitor FCT-3 (28.04 Ma) and the total decay constant lambda = 5.530E-10/yr. N is the number of heating steps (defining plateau/total); MSWD is an F statistic that compares the variance within step ages with the variance about the plateau age. J combines the neutron fluence with the monitor age.												
+bMean plateau age.												
+cMean 2sigma error.												

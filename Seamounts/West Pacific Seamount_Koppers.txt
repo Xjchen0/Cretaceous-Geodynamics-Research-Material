@@ -1,0 +1,146 @@
+Table 1. Overview 40Ar/39Ar Data of the West Pacific Seamount Provincea																						
+Sample								Analyses				Age Spectrum					Total Fusion		Inverse Isochron Analyses			
+Seamount	Field Number	Lab Code	Rock Type	Location		Depth, m	Dredge Site	Analyses Number	Sample Type	 	 Ref.	Age +/- 2??(Ma)	K/Ca	39Ar, %	MSWD	n	Age +/- 2???Ma	K/Ca	Age +/- 2?(Ma)	40Ar/ 36Ar Intercept	MSWD	
+ 				Lat	Lon	 		 			 	 		 		 	 		 			 
+Magellan Seamount Trail																						
+Vlinder	TUNES 6 29-1	VLI-1	hawaiite	17.12	154.33	2200	rim	97M0266	grndm		(2)	95.0 +/- 0.7 	0.47	52	16.5	6	94.5 +/- 0.7 	0.06				
+	TUNES 6 29-29	VLI-4	hawaiite	17.12	154.33	2200	rim	93M0054	plag		(1)	95.4 +/- 1.5 	0.01	49	5.2	4	92.8 +/- 1.6 	0.01	95.2 +/- 1.9 	305.0 +/- 59.2	5.0	
+								95M0259	grndm		(1)	96.6 +/- 0.7 	0.34	41	6.6	5	96.2 +/- 0.6 	0.19				
+	TUNES 6 29-10	VLI-8	alk basalt	17.12	154.33	2200	rim	97M0272	plag		(2)	92.3 +/- 1.7 	0.01	96	1.1	7	93.0 +/- 4.7 	0.01	92.7 +/- 2.1 	291.6 +/- 12.9	1.2	
+	TUNES 6 32-14	OMA-1	hawaiite	16.40	154.35	3400	satellite	93M0056	plag		(2)	95.6 +/- 0.7 	0.01	49	0.9	4	93.8 +/- 1.3 	0.01	95.5 +/- 0.8 	309.4 +/- 16.4	0.7	
+								97M0242	repeat		(2)	93.3 +/- 2.2 	0.01	80	0.3	4	96.0 +/- 6.3 	0.01	94.3 +/- 2.6 	306.3 +/-   8.5	1.2	
+	TUNES 6 27-10a	VLI-6	hbl basanite	16.98	154.02	3100	pedestal	97M0261	grndm kfs		(2)	102.4 +/- 0.5 	6	100	4.1	8	102.4 +/- 0.5 	5.98	102.3 +/- 0.7 	300.6 +/- 23.5	4.9	
+	TUNES 6 27-9a	VLI-9	hbl basanite	16.98	154.02	3100	pedestal	97M0260	grndm kfs		(2)	101.6 +/- 0.6 	5.73	100	7.4	11	101.7 +/- 0.6 	5.67	101.1 +/- 0.6 	321.7 +/- 19.4	4.4	
+	TUNES 6 28-1	VLI-5	hbl basanite	17.03	154.07	2400	pedestal	95M0193	hbl		(2)	100.2 +/- 0.4 	0.11	93	1.5	11	100.4 +/- 0.7 	0.11	100.2 +/- 0.4 	291.7 +/-   3.3	1.5	
+Pako	MW8805 RD-66-1	PAK-1	hawaiite	15.88	155.15	2025	rim	95M0220	plag		(2)	90.9 +/- 0.5 	0.04	65	1.3	9	89.4 +/- 1.3 	0.04	90.8 +/- 0.5 	299.7 +/-   6.5	1.1	
+	MW8805 RD-67-3	PAK-2	hawaiite	15.50	155.02	1600	rim	97M0265	aph bas		(2)	92.3 +/- 0.7 	0.31	19	2.9	3	94.3 +/- 0.9 	0.3				
+	MW8805 RD-67-2	PAK-3	hawaiite	15.50	155.02	1600	rim	97M0267	aph bas		(2)	91.2 +/- 0.4 	0.8	25	2.1	3	92.3 +/- 0.5 	0.71			
+Ioah	PUSH I-065-5	IOA-3	hawaiite	14.13	155.88	4000	flank	97M0264	grndm		(2)	88.5 +/- 0.7 	0.65	53	2.8	9	86.8 +/- 1.4 	0.47			
+	PUSH I-056-6	IOA-4	hawaiite	14.18	155.98	1600	rim	97M0269	grndm		(2)	86.7 +/- 0.4 	0.65	61	0.7	9	86.2 +/- 0.7 	0.56			
+Ita-Mai-Tai	PUSH I-053	ITA-1	hawaiite	12.98	156.68	4000	flank	93M0059	plag		(1)	120.0 +/- 0.8 	0.03	64	1.7	6	120.4 +/- 1.4 	0.03	120.0 +/- 0.8 	295.8 +/-   2.5	1.5
+								93M0059	repeat			119.5 +/- 1.4 	0.03	65	4.6	9	118.6 +/- 1.0 	0.03	118.7 +/- 3.4 	293.1 +/- 55.3	0.3
+								97M0268	grndm		(1)	117.9 +/- 0.9 	0.54	42	5.9	7	112.3 +/- 1.1 	0.45			
+	PUSH I-038	ITA-2	hawaiite	12.97	156.75	2700	rim	97M0241	plag		(1)	118.5 +/- 0.8 	0.35	100	13	8	118.5 +/- 0.7 	0.34	118.5 +/- 0.8 	293.0 +/- 25.5	13.5
+								97M0271	grndm		(1)	118.0 +/- 0.7 	0.8	49	9.1	6	116.4 +/- 0.8 	0.6			
+Ujlan Seamount Trail																					
+Likelep	F1089CP 19-20	LIK-1	hawaiite	10.60	160.37	2030	rim	95M0211	plag			82.8 +/- 0.4 	0.06	64	0.6	10	82.1 +/- 1.0 	0.06	82.8 +/- 0.4 	294.4 +/-   6.9	0.7
+									wr	CN	(5)	77.2 +/- 0.8 		96		8					
+	F1089CP 19-19	LIK-2	hawaiite	10.60	160.37	2030	rim	95M0207	plag			82.0 +/- 0.4 	0.1	98	1.6	12	81.9 +/- 0.8 	0.11	82.0 +/- 0.4 	279.9 +/- 21.0	2
+								95M0195	hbl			82.4 +/- 0.4 	0.13	100	1.5	10	82.2 +/- 0.6 	0.13	82.4 +/- 0.4 	291.6 +/-   2.8	1.6
+								95M0187	bio	N		82.8 +/- 0.4 	8.82	82	0.8	12	83.0 +/- 1.0 	3.44	83.0 +/- 0.6 	301.1 +/- 18.6	3.2
+	F1089CP 19-18		hawaiite	10.60	160.37	2030	rim		wr	CN	(5)	82.4 +/- 0.8 		63		7					
+Lajutokwa	F1089CP 21-25-3	LAJ-1	hawaiite	10.50	160.85	1975	flank	95M0219	plag			81.1 +/- 0.7 	0.02	100	1.8	12	81.0 +/- 1.8 	0.02	80.9 +/- 0.9 	314.1 +/- 98.1	1.9
+	F1089CP 21-27-1	LAJ-2	hawaiite	10.50	160.85	1975	flank	95M0200	plag			80.9 +/- 0.7 	0.03	60	2.8	7	78.5 +/- 1.2 	0.03	80.9 +/- 0.8 	297.7 +/- 20.2	3.2
+	F1089CP 21-11	LAJ-4		10.50	160.85	1975	flank	95M0200	wr	CN		82.5 +/- 1.0 	0.22	50	0.8	7	80.0 +/- 1.2 	0.22	82.3 +/- 1.1 	306.4 +/- 27.0	0.8
+Lotab	F1089CP 18-22-1	LOT-2	alk basalt	10.27	160.67	1860	rim	95M0202	plag			79.7 +/- 0.4 	0.03	100	0.2	11	79.6 +/- 1.2 	0.03	79.7 +/- 0.4 	288.6 +/-   7.9	0.2
+Ujlan	F1089CP 14-1	UJL-1		9.76	160.53		rim		plag			80.1 +/- 0.5 	0.06	100	0.8	11	80.1 +/- 0.5 	0.06	80.1 +/- 0.5 	292.3 +/- 15.2	0.9
+Anewetak Seamount Trail																					
+Neen-Koiaak	TUNES 6 13-1	NEK-1	hawaiite	14.28	160.92	1500	rift	95M0201	plag		(1)	103.1 +/- 0.7 	0.02	100	0.6	11	103.1 +/- 2.1 	0.02	103.0 +/- 0.7 	299.8 +/- 13.7	0.6
+								95M0279	grndm		(1)	104.5 +/- 0.8 	0.12	45	10.1	3	96.4 +/- 0.7 	0.08			
+	TUNES 6 13-5	NEK-2	hawaiite	14.28	160.92	1500	rift	95M0221	plag		(1)	102.5 +/- 0.9 	0.02	54	0.9	5	96.9 +/- 3.3 	0.02	102.5 +/- 0.9 	292.5 +/- 13.7	0.9
+								95M0303	grndm		(1)	102.0 +/- 0.5 	0.37	48	6.6	10	98.6 +/- 0.5 	0.24			
+Lami	F1089CP 10-12	LAM-1	alk basalt	11.85	161.48	1900	rim	95M0296	grndm			85.5 +/- 0.6 	0.1	44	0.7	5	84.8 +/- 1.9 	0.02			
+Anewetak	E-1-4-3A		basalt	11.50	162.30	1271	summit		wr	N	(5)	77.1 +/- 1.2 		84		8			76.3 +/- 2.4 	299.1 +/-   7.8	1
+									repeat	N	(5)	77.8 +/- 1.0 		96		12			76.6 +/- 1.6 	309.1 +/- 21.0	1.3
+	E-1-5-6A		basalt	11.50	162.30	1388	summit		wr	N	(5)	75.3 +/- 1.2 		73		10			74.3 +/- 2.6 	310.0 +/- 31.2	0.7
+									repeat	N	(5)	74.8 +/- 1.0 		96		8			73.7 +/- 3.8 	333.4 +/-  154	0.8
+Lo-En	ODP-144 872C 9R2 115-120	LOE-1	hawaiite	10.10	162.87	1084	summit		aph bas	CN	(8)	114.9 +/- 2.2 		70		9	113.8 +/- 1.2 				
+								94M0117	aph bas	F		112.9 +/- 1.0 	0.62	56	32.4	9	112.1 +/- 0.8 	0.15			
+	ODP-144 872C 18X1 88-93		alk basalt	10.10	162.87	1084	summit		aph bas	CN	(8)	110.9 +/- 2.8 		98		6	108.2 +/- 2.6 				
+Mij-Lep	F1089CP 23-3	MIJ-1	alk basalt	8.87	163.17	1345	rim	93M0060	plag			109.5 +/- 1.0 	0.04	100	3.8	8	109.5 +/- 0.8 	0.04	109.6 +/- 0.8 	292.8 +/-   5.5	4.1
+Ralik Seamount Trail																					
+North Wod-En	MW8805 RD-62-1	NWO-1	hawaiite	15.97	162.93	1595	rim		plag		(5)	85.4 +/- 1.0 		97		9			84.7 +/- 1.0 	307.4 +/- 15.6	1.2
+	MW8805 RD-62-2	NWO-2	hawaiite	15.97	162.93	1595	rim	95M0302	aph bas			87.8 +/- 0.5 	1.09	30	11.8	4	88.0 +/- 0.4 	0.38			
+	MW8805 RD-62-4	NWO-3	hawaiite	15.97	162.93	1595	rim		wr	CN	(5)	85.6 +/- 1.0 		90		8					
+									repeat	CN	(5)	86.6 +/- 1.0 		78		10					
+South Wod-En	MW8805 RD-61-1	SWO-1	alk basalt	15.28	162.93	1525	rim	95M0307	grndm			75.7 +/- 0.9 	0.08	59	2.7	7	79.2 +/- 2.7 	0.01			
+Lobbadede	MW8805 RD-56-1	LOB-1	alk basalt	13.87	163.62	2425	rim	95M0209	plag			94.3 +/- 0.5 	0.02	99	0.8	11	94.1 +/- 1.7 	0.02	94.3 +/- 0.5 	287.3 +/-   9.6	0.9
+									wr	CN	(5)	82.4 +/- 1.4 		59		7					
+Bwewa-Kan	MW8805 RD-53-1	BWE-1	alk basalt	13.50	164.38	1580	rim	95M0285	grndm			discordant					88.8 +/- 0.7 	0.07			
+Wodejebato	ODP-144 873C 17R1 23-27	WOD-1	hawaiite	11.90	164.92	1335	summit	94M0069	aph bas		(1)	82.1 +/- 0.6 	0.84	37	21.5	6	82.2 +/- 0.5 	0.26			
+									wr	CN	(8)	80.9 +/- 1.2 		55		3	107.4 +/- 1.4 				
+	ODP-144 873C 18R1 14-19	WOD-10	hawaiite	11.90	164.92	1335	summit		wr	CN	(8)	81.9 +/- 1.4 		93		5	85.2 +/- 1.0 				
+	ODP-144 874B 24R4 23-25	WOD-2	ankaramite	12.00	164.93	1375	summit	94M0143	plag			78.6 +/- 1.0 	0.02	100	3.5	10	78.6 +/- 1.7 	0.01	78.1 +/- 1.4 	304.7 +/- 22.0	3.4
+	ODP-144 874B 24R4 106-111		ankaramite	12.00	164.93	1375	summit		wr	CN	(8)	85.6 +/- 1.6 		79		5	84.0 +/- 1.6 				
+	ODP-144 876A 17R1 98-104	WOD-3	alk basalt	12.25	164.93	1399	summit	94M0072	wr			78.5 +/- 1.7 	0.44	41	127.5	4	79.3 +/- 0.6 	0.13			
+									wr	CN	(8)	82.0 +/- 1.6 		54		4	77.6 +/- 1.4 				
+	ODP-144 876A 17R1 91-98		alk basalt	12.25	164.93	1399	summit		wr	CN	(8)	78.6 +/- 2.4 		63		4	77.1 +/- 1.8 				
+	ODP-144 877A 20R5 12-16	WOD-4	alk basalt	12.02	164.92	1355	summit	96M0039	grndm			83.3 +/- 1.1 	0.08	28	10.3	4	83.8 +/- 0.8 	0.05			
+	TUNES 6 9-19a	WOD-6	alk basalt	12.08	164.93	2250	satellite	93M0041	plag			77.3 +/- 3.1 	0.01	86	2.2	6	75.1 +/- 5.8 	0.01	78.8 +/- 4.1 	282.9 +/- 23.3	2.0
+								93M0042	repeat			78.0 +/- 2.1 	0.01	47	2.7	8	81.0 +/- 4.1 	0.01	77.5 +/- 2.3 	306.8 +/-   5.1	2.5
+	ODP-143 869B 42R2 84-86	WOD-11	alk basalt	11.00	164.75	4800	apron	93M0043	plag			94.0 +/- 1.3 	0.02	79	4	10	93.8 +/- 2.7 	0.02	94.1 +/- 1.4 	278.0 +/- 49.8	5.1
+									repeat		(7)	94.0 +/- 0.6 		94		8			94.0 +/- 0.8 	274.3 +/- 35.8	1.5
+									repeat		(7)	94.6 +/- 0.6 		93		9			93.9 +/- 1.8 	410.3 +/-  203	1.2
+	ODP-143 869B 41R4 70-73		alk basalt	11.00	164.75	4800	apron		plag		(7)	91.8 +/- 0.6 		57		4			93.5 +/- 2.0 	220.9 +/- 84.6	1.5
+	ODP-143 869B 41R5 82-85		hawaiite	11.00	164.75	4800	apron		plag		(7)	96.0 +/- 0.6 		49		4			96.3 +/- 1.4 	289.4 +/- 20.2	0.3
+Ratak Seamount Trail																					
+Ratak	L9-84-CP 18-1		hawaiite	13.90	167.65	1600	rim		wr	CN	(3)						83.6 +/- 2.8 				
+									wr	F	(3)	85.8 +/- 1.6 									
+	L9-84-CP 18-5		hawaiite	13.90	167.65	1600	rim		wr	CN	(3)	81.0 +/- 0.8 		54			78.3 +/- 0.8 				
+									wr		(3)						82.8 +/- 1.0 				
+									wr	F	(3)	82.4 +/- 1.2 									
+Erikub	L9-84-CP 6-1		hawaiite	8.75	169.80	2900	rim		wr	CN	(3)	86.4 +/- 1.0 		53			85.3 +/- 0.8 				
+									wr		(3)	87.7 +/- 1.0 		71			88.7 +/- 1.0 				
+									repeat		(3)	86.9 +/- 1.0 		77			88.8 +/- 1.0 				
+									wr	F	(3)	87.6 +/- 1.2 									
+	L9-84-CP 6-16		alk basalt	8.75	169.80	2900	rim		wr	F	(3)	85.6 +/- 2.6 									
+Limalok	ODP-144 871C 39R6 116-119	LIM-3	basanite	5.55	172.35	1255	rim	95M0273	grndm		(1)	68.8 +/- 1.0 	1.01	47	25.9	4	68.2 +/- 0.8 	0.04			
+	ODP-144 871C 39R1 83-85	LIM-4	basanite	5.55	172.35	1255	rim	96M0038	grndm		(1)	68.0 +/- 0.6 	0.63	41	0.6	5	74.3 +/- 1.9 	0.01			
+Southern Wake Seamount Trail																					
+HIMU	RC26 4-1	HIM-1	trachybasalt	21.70	151.70	4500	flank		hbl	FN	(4)	121.0 +/- 1.6 				1					
+									plag	FN	(4)	119.6 +/- 1.4 				6					
+	RC26 4-8	HIM-2	hbl basanite	21.70	151.70	4500	flank		hbl	FN	(4)	119.5 +/- 1.2 				2					
+Golden Dragon	TUNES 6 36-2	GLD-5	hbl basanite	21.37	153.15	1450	rim	97M0275	hbl			101.8 +/- 0.5 	0.11	86	1.3	6	101.8 +/- 0.7 	0.12	101.8 +/- 0.5 	283.5 +/-   5.3	1.5
+								93M0066	hbl	FN		102.8 +/- 0.7 	0.12		6.4	9	102.7 +/- 0.7 	0.12			
+Missy	TUNES 6 34-2	MIS-2	basanite	20.95	154.93	2000	rim	95M0301	grndm			96.7 +/- 0.9 	0.06	45	3.4	6	110.2 +/- 1.9 	0.02			
+Jennings	TUNES 6 24-4	JEN-1	alk basalt	20.87	156.17	2600	rim	95M0267	grndm		(1)	103.4 +/- 0.5 	0.51	31	4.7	6	104.7 +/- 0.6 	0.21			
+	TUNES 6 24-24	JEN-4	ankaramite	20.87	156.17	2600	rim	95M0271	grndm		(1)	103.5 +/- 0.6 	0.48	60	25.1	14	101.6 +/- 0.5 	0.15			
+Maloney	TUNES 6 23-8	MAL-2	ankaramite	21.05	157.15	2500	flank	95M0277	wr		(1)	97.7 +/- 0.6 	0.21	32	13.6	6	96.5 +/- 0.6 	0.11			
+	TUNES 6 23-24	MAL-5	hbl basanite	21.05	157.15	2500	flank	95M0194	hbl		(1)	100.7 +/- 0.7 	0.08	77	3.7	6	101.9 +/- 1.6 	0.03	100.8 +/- 0.7 	288.1 +/- 11.5	3.9
+																					
+Lamont	A5-22-1		basalt	21.48	159.53				wr	N	(6)	87.2 +/- 0.6 		100		6					
+	A5-23-1		basalt	21.50	159.60	1275			wr	N	(6)	81.5 +/- 1.2 		98		5					
+	A5-23		basalt	21.50	159.60	1275			wr	N	(9)								86.6 +/- 7.4 	334.2 +/- 17.0	2.8
+Miami	A5-21-3		basalt	21.68	161.87				wr	N	(6)	96.8 +/- 1.2 		75		3					
+Wilde	A5-19-1		mugearite	21.15	163.15	2630			wr	N	(6)	90.6 +/- 0.6 		93		3					
+	A5-19		trachyandesite	21.15	163.15	2630			wr	N	(9)								86.4 +/- 3.8 	295.5 +/- 14.6	2.7
+Northern Wake Seamount Trail																					
+Alcatraz	TUNES 6 39-1	ALC-1	hawaiite	24.10	149.95	2000	rim	95M0204	plag			113.0 +/- 0.9 	0.02	59	0.7	7	111.9 +/- 2.3 	0.02	113.0 +/- 0.9 	294.4 +/- 15.3	0.7
+	TUNES 6 39-9	ALC-2	hawaiite	24.10	149.95	2000	rim	95M0222	plag			117.8 +/- 4.0 	0	70	0.3	5	113.7 +/-  11 	0	117.8 +/- 4.3 	293.5 +/- 15.8	0.2
+	TUNES 6 39-2	ALC-3	hawaiite	24.10	149.95	2000	rim	95M0206	plag			112.0 +/- 1.4 	0.02	100	0.5	9	112.0 +/- 4.8 	0.02	112.0 +/- 1.4 	296.7 +/-   9.7	0.5
+Scripps	A5-27-1			24.02	159.45		satellite		wr	N	(6)	101.6 +/- 1.4 		91		4					
+	A5-25			23.70	159.55	3200	satellite		wr	N	(9)								97.5 +/- 6.0 	311.8 +/-   8.1	3.1
+Japanese Seamount Trail																					
+Taikuyo-Daini	A5-39-2		hawaiite	34.30	143.90	2500			wr	CN	(8)	118.1 +/- 2.0 		90		4	116.9 +/- 2.4 				
+	A5-39		mugearite	34.30	143.90	2500			wr	N	(9)								101.8 +/- 6.8 	255.8 +/- 38.4	4.5
+Taikuyo-Daisan	ODP-144 879C 21R2 82-86	TAK-2	alk basalt	34.18	144.32	1501	ridge	95M0278	grndm			117.4 +/- 1.2 	0.21	48	60	5	116.5 +/- 0.7 	0.18			
+	A5-37-3		alk basalt						wr	CN	(8)	118.4 +/- 3.6 		74		2	107.3 +/- 3.8 				
+Winterer	WP-49-1		mugearite	32.80	148.40				wr	N	(6)	108.3 +/- 2.0 		97		4					
+Isakov	WP-54-4		nephelinite	31.60	151.20				wr	N	(6)	103.7 +/- 3.6 		91		4					
+Typhoon Seamount Trail																					
+Seth	TUNES 6 40-1	SET-2		23.88	148.72	3000	rift	95M0213	plag			134.2 +/- 2.7 	0.03	61	0.3	6	130.8 +/- 7.5 	0.04	134.2 +/- 2.8 	293.9 +/- 52.5	0.4
+								95M0208	hbl			134.2 +/- 4.1 	0.13	97	0.2	8	132.9 +/-  16 	0.11	134.3 +/- 4.1 	293.5 +/- 17.3	0.2
+	TUNES 6 44-2	SET-3	hawaiite	23.72	148.78	3250	rift	95M0305	aph bas			114.0 +/- 1.3 	0.1	39	38.4	6	99.2 +/- 0.9 	0.1			
+	TUNES 6 41-3	SET-4	hawaiite	23.82	148.68	3300	rift	97M0270	grndm			139.3 +/- 0.7 	0.13	32	1	5	132.1 +/- 1.3 	0.04			
+	TUNES 6 42-13	SET-5	hawaiite	23.93	148.72	2400	rift	97M0263	grndm			121.2 +/- 0.9 	0.08	44	2.6	6	110.3 +/- 2.0 	0.05			
+Other Seamounts																					
+Makarov	A5-30		mugearite	29.50	153.40	2300			wr	N	(9)								93.9 +/- 2.6 	301.9 +/- 13.6	2.6
+MIT	ODP-144 878A 46M1 115-119		hawaiite	27.32	151.88	1323	summit 1		wr	CN	(8)	121.2 +/- 1.4 		91		4	120.7 +/- 1.6 				
+	ODP-144 878A 46M2 51-55		hawaiite	27.32	151.88	1323	summit 1		wr	CN	(8)	119.9 +/- 2.6 		71		5	121.1 +/- 1.4 				
+	ODP-144 878A 79R3 103-109		hawaiite	27.32	151.88	1323	summit 1		wr	CN	(8)	119.9 +/- 1.6 		59		4	117.1 +/- 1.4 				
+	ODP-144 878A 80R6 94-98	MIT-1	basanite	27.32	151.88	1323	summit 2		wr	CN	(8)	118.5 +/- 2.0 		86		4	113.6 +/- 2.2 				
+	ODP-144 878A 89R4 33-37	MIT-3	alk basalt	27.32	151.88	1323	summit 3		wr	CN	(8)	124.4 +/- 1.4 		66		5	123.5 +/- 1.4 				
+									plag		(10)	123.0 +/- 0.8 		72		7					
+	ODP-144 878A 91R3 100-106	MIT-4	alk basalt	27.32	151.88	1323	summit 3		wr	CN	(8)	123.9 +/- 1.4 		70		3	123.3 +/- 1.4 				
+									plag		(10)	122.7 +/- 1.0 		65		7					
+	ODP-144 878A 98R3 48-53	MIT-2	alk basalt	27.32	151.88	1323	summit 3		wr	CN	(8)	123.6 +/- 1.4 		73		5	123.2 +/- 1.4 				
+Batiza	TUNES 6 19-5	BAT-1	alk basalt	19.70	156.75	2500	flank	95M0308	grndm			discordant					106.9 +/- 0.6 	0.15			
+Hemler	RC26 7-5/8	HEM-1	trachybasalt	19.55	151.57	3950	rim		neph	FN	(4)	99.5 +/- 1.2 				8					
+	RC26 7-15	HEM-2	trachybasalt	19.55	151.57	3950	rim		plag	FN	(4)	100.7 +/- 1.2 				3					
+Grant	ZETES IV 7-1	GRA-1	alk basalt	26.85	148.78	1220	flank	95M0261	aph bas			discordant		 			113.7 +/- 1.0 	0.09			
+Look	F1089CP 4-17	LOO-3	hbl basanite	12.18	166.30	2010	flank	95M0205	plag			140.8 +/- 0.7 	0.05	82	1.5	9	139.2 +/- 1.6 	0.05	140.7 +/- 0.7 	306.6 +/- 12.0	1.3
+								95M0191	hbl			140.1 +/- 0.6 	0.1	96	2.5	10	140.0 +/- 0.8 	0.1	140.1 +/- 0.6 	293.1 +/-   5.3	4.8
+	F1089CP 4-2			12.18	166.30	2010	flank		hbl	F	(5)	138.1 +/- 1.4 				13			138.2 +/- 1.0 	343.3 +/- 57.0	1.6
+	F1089CP 4-10-1			12.18	166.30	2010	flank		hbl	F	(5)	138.7 +/- 1.4 				1					
+	MW8805 RD-45-1	LOO-2	ankaramite	12.15	166.15	2200	flank		hbl	F	(5)	140.0 +/- 1.6 				1						
+aK/Ca values are calculated as weighted means for the age spectra or using recombined totals of 39ArK and 37ArCa for the total fusions. MSWD values for the age plateaus and inverse isochrons are calculated using N-1 and N-2 degrees of freedom, respectively. All Vrije Universiteit samples where monitored against Taylor Creek Rhyolite sanidine (27.92 Ma). Reported errors on the 40Ar/39Ar ages are on the 95% confidence level including 0.2-0.3% standard deviation in the J-value. The analyses normally represent incremental heating experiments on acid-leached materials, unless they are denoted by: C, incremental heating experiments performed on whole rock cores; F = total fusion experiments; N, non-leached materials. This compilation table contains 38 new incremental heating experiments from Koppers [1998]; all other data are from (1) Koppers et al. [2000]; (2) Koppers et al. [1998]; (3) Davis et al. [1989]; (4) Smith et al. [1989]; (5) Lincoln et al. [1993]; (6) Winterer et al. [1993]; (7) Pringle and Duncan [1995a]; (8) Pringle and Duncan [1995b]; (9) Ozima et al. [1977]; (10) Wijbrans et al. [1995]. Some unleached whole rock (core) analyses are denoted by light gray background colors indicating that they are most likely affected by alteration based on comparison with comagmatic samples.		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
